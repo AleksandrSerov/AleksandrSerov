@@ -3,8 +3,6 @@
   - 🖥 [ohmystart](https://github.com/AleksandrSerov/ohmystart) - The easiest way to start up react app from scratch
   - 📦 [presets-lint](https://github.com/AleksandrSerov/presets-lint) - The easiest way to set up linters for your react application
   - 📦 [eslint-plugin-dirnames](https://github.com/AleksandrSerov/eslint-plugin-dirnames) - Eslint plugin for consistent directory naming
-  - 🖥👾 [spot](https://github.com/AleksandrSerov/spot) - Conway's Game of Life. React | Canvas | PixiJS
-  - 🖥👾 [snake-ai](https://github.com/AleksandrSerov/snake-ai) - Snake game with genetic algorithm. React | Canvas | PixiJS
 <!--
 **AleksandrSerov/AleksandrSerov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
